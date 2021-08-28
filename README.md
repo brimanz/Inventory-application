@@ -29,7 +29,7 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-## Available Scripts
+## Start JSON-SERVER
 for the correct execution it is necessary to start the local server(JSON-SERVER), and in this way execute the db.json file
 
 The server for the database runs on port 3000 by default.
